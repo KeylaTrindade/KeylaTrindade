@@ -1,48 +1,85 @@
-## Hi there 👋
-# Keyla Trindade
+# Olá, me chamo Keyla Trindade 💜✨
+## Engenharia de Produção • Gestão da Qualidade • Análise de Dados
 
-Engenharia de Produção • Gestão da Qualidade • Análise de Dados
+## 👩🏾‍💻 Apresentação 
 
----
+Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade, explorando e construindo minha trajetória no universo da Análise de Dados.
 
-## Sobre
+Formação direcionada à análise e estruturação de dados, controle e melhoria de processos e aplicação de indicadores como ferramenta estratégica de apoio à gestão. Base acadêmica em métodos quantitativos, organização de informações e avaliação de desempenho organizacional, com foco em eficiência, padronização e qualidade.
 
-Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade.
+## 🎯 Áreas de Interesse
 
-Interesse em análise de dados aplicada à tomada de decisão, indicadores de desempenho e melhoria contínua de processos.
-
----
-
-## Áreas de Interesse
-
-- Análise Exploratória de Dados
-- Indicadores de Performance (KPIs)
+- Análise e Modelagem de Dados
 - Business Intelligence
-- Melhoria Contínua
+- Indicadores de Performance (KPIs)
 - Otimização de Processos
+- Melhoria Contínua
 
----
+##  🛠 Ferramentas
 
-## Ferramentas
+Excel • Power BI • DAX • Power Query • SQlite
 
-Excel • Power BI • DAX • Power Query • Git
+<p align="left">  
 
----
+  <!-- SQL Server 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+  </a> -->
 
-## Linguagens e Tecnologias
+  <!-- MySQL 
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> -->
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeylaTrindade&layout=compact&theme=github_dark&hide_border=true" 
-  />
+  <!-- PostgreSQL
+  <a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> -->
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/> 
+  </a> 
+
+  <!-- Python
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  -->
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
+  </a>
+
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+
+  <!-- Power Query -->
+  <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerquery" width="40" height="40"/>
+  </a>
+
+  <!-- DAX -->
+  <a href="https://learn.microsoft.com/en-us/dax/" target="_blank">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="dax" width="40" height="40"/>
+  </a>
+
 </p>
 
----
 
-## Contato
-
-LinkedIn: https://www.linkedin.com/in/keyla-trindade  
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/keylatrindade
 Email: keyllatrindade8@gmail.com
+
+<!-- GitHub Stats roxo -->
+<img src="https://github-readme-stats.vercel.app/api?username=KeylaTrindade&show_icons=true&theme=tokyonight&hide_border=true" />
 
 
 <p align="center">
