@@ -7,7 +7,7 @@
 
 Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade, explorando e construindo minha trajetória no universo da Análise de Dados.
 
-Formação direcionada à análise e estruturação de dados, controle e melhoria de processos e aplicação de indicadores como ferramenta estratégica de apoio à gestão. Base acadêmica em métodos quantitativos, organização de informações e avaliação de desempenho organizacional, com foco em eficiência, padronização e qualidade.
+Formação direcionada à análise e estruturação de dados, controle e melhoria de processos, com aplicação de indicadores como ferramenta estratégica de apoio à gestão. Base acadêmica em métodos quantitativos, organização de informações e avaliação de desempenho organizacional, com foco em eficiência, padronização e qualidade.
 
 
 ## 🎯 Áreas de Interesse
@@ -84,6 +84,6 @@ Formação direcionada à análise e estruturação de dados, controle e melhori
 
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KeylaTrindade&theme=tokyo-night) -->
 
----
+
 
 
