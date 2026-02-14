@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## Contribuições
+
+<p align="center">
+  <img src="https://github.com/KeylaTrindade/KeylaTrindade/blob/output/pacman-contribution-graph.svg" />
+</p>
