@@ -1,23 +1,37 @@
 <h1 align="center">Olá, me chamo Keyla Trindade 💜✨</h1>
-<h3 align="center">Engenharia de Produção • Gestão da Qualidade • Análise de Dados</h3>
+<h4 align="center">Engenharia de Produção • Operações e Processos Industriais • Gestão da Qualidade • Análise de Dados</h4>
 
 ---
 
 ## 👩🏾‍💻 Apresentação 
 
-Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade, explorando e construindo minha trajetória no universo da Análise de Dados.
+Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade, construindo minha trajetória na área de Análise de Dados aplicada à gestão, operações e melhoria de processos.
 
-Formação direcionada à análise e estruturação de dados, controle e melhoria de processos, com aplicação de indicadores como ferramenta estratégica de apoio à gestão. Base acadêmica em métodos quantitativos, organização de informações e avaliação de desempenho organizacional, com foco em eficiência, padronização e qualidade.
+Tenho interesse no uso de dados como ferramenta estratégica para tomada de decisão, especialmente no apoio à gestão de processos, eficiência operacional e análise de desempenho organizacional.
 
+Minha formação está voltada para:
+- análise e organização de dados
+- controle e melhoria de processos
+- análise de operações e processos industriais
+- desenvolvimento e acompanhamento de indicadores de desempenho
+
+Busco aplicar métodos quantitativos e ferramentas analíticas para apoiar gestão, padronização, otimização de processos e melhoria contínua em ambientes organizacionais e industriais.
 
 ## 🎯 Áreas de Interesse
-
 - Análise e Modelagem de Dados
 - Business Intelligence
 - Indicadores de Performance (KPIs)
 - Otimização de Processos
+- Operações e Processos Industriais
 - Melhoria Contínua
 
+## 📂 Projetos
+Neste repositório você encontrará projetos acadêmicos e estudos relacionados a:
+- análise de processos
+- indicadores de desempenho
+- gestão da qualidade
+- operações e processos industriais
+- estudos aplicados de engenharia de produção
 
 ## 🛠 Ferramentas
 
