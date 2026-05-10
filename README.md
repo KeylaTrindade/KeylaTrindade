@@ -5,7 +5,7 @@
 
 ## 👩🏾‍💻 Apresentação 
 
-Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade, construindo minha trajetória na área de Análise de Dados aplicada à gestão, operações e melhoria de processos.
+Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade, construindo minha trajetória na área da Qualidade aplicando Análise de Dados para melhoria de processos.
 
 Tenho interesse no uso de dados como ferramenta estratégica para tomada de decisão, especialmente no apoio à gestão de processos, eficiência operacional e análise de desempenho organizacional.
 
@@ -24,6 +24,7 @@ Busco aplicar métodos quantitativos e ferramentas analíticas para apoiar gest�
 - Otimização de Processos
 - Operações e Processos Industriais
 - Melhoria Contínua
+- Ferramentas da Qualidade
 
 ## 📂 Projetos
 Neste repositório você encontrará projetos acadêmicos e estudos relacionados a:
@@ -35,7 +36,7 @@ Neste repositório você encontrará projetos acadêmicos e estudos relacionados
 
 ## 🛠 Ferramentas
 
-<!-- Excel • Power BI • Git • SQlite -->
+<!-- Excel • Power BI • Git • SQlite • linguagem C-->
 <!-- deixei algumas ferramentas prontas para ficarem no README futuramente -->
 
 <p align="left">  
