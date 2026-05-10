@@ -51,6 +51,12 @@ Neste repositório você encontrará projetos acadêmicos e estudos relacionados
     <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/> 
   </a> 
 
+  
+ <!-- Linguagem C -->
+  <a href="https://www.learn-c.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a>
+
 
   <!-- SQL Server 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
