@@ -5,34 +5,43 @@
 
 ## 👩🏾‍💻 Apresentação 
 
-Estudante de Engenharia de Produção com formação complementar em Gestão da Qualidade, construindo minha trajetória na área da Qualidade aplicando Análise de Dados para melhoria de processos.
+Estudante de Engenharia de Produção e Tecnóloga em Gestão da Qualidade, construindo minha trajetória profissional nas áreas de qualidade, processos e operações industriais.
 
-Tenho interesse no uso de dados como ferramenta estratégica para tomada de decisão, especialmente no apoio à gestão de processos, eficiência operacional e análise de desempenho organizacional.
+Atualmente direciono meu desenvolvimento para melhoria contínua, organização de processos, padronização, acompanhamento de indicadores e apoio às rotinas operacionais e industriais.
 
-Minha formação está voltada para:
+Tenho interesse na utilização de ferramentas tecnológicas e análise de dados como suporte para tomada de decisão, eficiência operacional e otimização de processos em ambientes organizacionais e industriais.
+
+Minha formação e estudos estão voltados para:
+- gestão da qualidade
+- melhoria contínua
+- operações e processos industriais
 - análise e organização de dados
-- controle e melhoria de processos
-- análise de operações e processos industriais
-- desenvolvimento e acompanhamento de indicadores de desempenho
+- indicadores de desempenho
+- padronização e controle de processos
 
-Busco aplicar métodos quantitativos e ferramentas analíticas para apoiar gestão, padronização, otimização de processos e melhoria contínua em ambientes organizacionais e industriais.
+Busco integrar conhecimentos técnicos, organizacionais e analíticos para contribuir com eficiência operacional, qualidade e melhoria contínua.
 
 ## 🎯 Áreas de Interesse
-- Análise e Modelagem de Dados
-- Business Intelligence
-- Indicadores de Performance (KPIs)
-- Otimização de Processos
+- Gestão da Qualidade
 - Operações e Processos Industriais
 - Melhoria Contínua
+- Indicadores de Performance (KPIs)
+- Padronização de Processos
 - Ferramentas da Qualidade
+- Eficiência Operacional
+- Análise de Dados aplicada a Processos
 
 ## 📂 Projetos
 Neste repositório você encontrará projetos acadêmicos e estudos relacionados a:
-- análise de processos
-- indicadores de desempenho
+
 - gestão da qualidade
-- operações e processos industriais
-- estudos aplicados de engenharia de produção
+- melhoria contínua
+- análise e padronização de processos
+- indicadores de desempenho
+- operações industriais
+- engenharia de produção
+- organização e otimização de processos
+
 
   ## 🛠 Ferramentas
 
